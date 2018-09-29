@@ -10,7 +10,7 @@ Resources:
   -repl.it
   https://repl.it
   
-<br \>  
+<br />  
 
 Research:
 -JS Resources to go through
@@ -32,7 +32,7 @@ Research:
   -Eloquent Javascript
   https://eloquentjavascript.net/
 
-<br \>
+<br />
 Projects:
   
   -WakeJS
