@@ -10,7 +10,7 @@ Resources:
   -repl.it
   https://repl.it
   
-  
+<br \>  
 
 Research:
 -JS Resources to go through
@@ -29,7 +29,10 @@ Research:
   -jS ebook collection:
   https://github.com/transidai1705/javascript-ebooks
   
+  -Eloquent Javascript
+  https://eloquentjavascript.net/
 
+<br \>
 Projects:
   
   -WakeJS
