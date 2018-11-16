@@ -1,6 +1,6 @@
 # todo
 todo list
-
+-------------------------------------
 Resources:
   -Travis.ci testing environment
   https://travis-ci.org
@@ -10,8 +10,16 @@ Resources:
   -repl.it
   https://repl.it
   
+  
+  -gitpod
+  https://www.gitpod.io/
+  https://addons.mozilla.org/en-GB/firefox/addon/gitpod/
+  
+  -theia
+  https://www.theia-ide.org/
+  
 <br />  
-
+------------------------------------------
 Research:
 -JS Resources to go through
   -a summary of 4 chapters of "Javascript the good parts"
@@ -31,7 +39,53 @@ Research:
   
   -Eloquent Javascript
   https://eloquentjavascript.net/
-
+  
+  -30 seconds of code
+  https://github.com/30-seconds/30-seconds-of-code
+  https://30secondsofcode.org/
+  
+  -Design Patterns for humans
+  https://github.com/kamranahmedse/design-patterns-for-humans
+  
+  -Gang of Four Design Patterns
+  http://www.blackwasp.co.uk/gofpatterns.aspx
+  
+  -github in git
+  https://help.github.com/articles/set-up-git/#next-steps-authenticating-with-github-from-git
+  
+  -Introduction to readable Javascript
+  https://carlanderson.xyz/intro-to-readable-javascript/
+  https://carlanderson.xyz/readable-javascript-code-structure/
+  
+  -js timing events
+  https://www.w3schools.com/js/js_timing.asp
+  
+  -vscode
+  https://code.visualstudio.com/docs/getstarted/tips-and-tricks
+  
+  
+  ---------------------------------------------
+  Phaser3
+  -documentation
+  https://photonstorm.github.io/phaser3-docs/index.html
+  
+  -Raiper Phaser resources
+  https://github.com/Raiper34/awesome-phaser
+  
+  
+  ---------------------------------------------
+  -general
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
+  https://stackoverflow.com/questions/12703214/javascript-difference-between-a-statement-and-an-expression
+  https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340
+  http://slicker.me/javascript/mine/minesweeper.htm
+  https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS#Object-oriented_programming_from_10000_meters
+  https://forum.processing.org/two/discussion/13494/what-s-the-best-way-of-telling-when-a-sound-file-has-finished-playing
+  javascript callback when sound is done playing
+  https://css-tricks.com/snippets/css/complete-guide-grid/
+  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  
+  
 <br />
 Projects:
   
