@@ -63,7 +63,40 @@ Research:
   -vscode
   https://code.visualstudio.com/docs/getstarted/tips-and-tricks
   
+  ---------------------------------------------
+  git
   
+  https://datagoodie.com/blog/git-simple-tutorial-explanation-LEVEL-0/
+
+  https://github.com/Gazler/githug
+
+
+  https://github.com/ningbit/8-bit-git/blob/master/GAME_START.txt
+
+  https://www.git-game.com/
+  https://github.com/git-game/git-game-v2
+
+  https://learngitbranching.js.org/
+
+  https://www.atlassian.com/git/tutorials
+  https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+  https://git-scm.com/docs/gittutorial
+
+  https://try.github.io/
+
+  https://www.tutorialspoint.com/git/
+
+  https://thenewstack.io/tutorial-git-for-absolutely-everyone/
+
+  https://gist.github.com/jaseemabid/1321592
+
+  http://gitimmersion.com/
+
+  https://www.git-tower.com/learn/
+
+  https://jshilpa.com/game-of-thrones-gits-guide/
+
   ---------------------------------------------
   Phaser3
   -documentation
