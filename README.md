@@ -1,6 +1,8 @@
 # todo
 todo list
+<br /> <br /> 
 -------------------------------------
+<br /> 
 Resources:
   -Travis.ci testing environment
   https://travis-ci.org
@@ -40,6 +42,31 @@ Research:
   -Eloquent Javascript
   https://eloquentjavascript.net/
   
+  -Introduction to readable Javascript
+  https://carlanderson.xyz/intro-to-readable-javascript/
+  https://carlanderson.xyz/readable-javascript-code-structure/
+  
+  -js timing events
+  https://www.w3schools.com/js/js_timing.asp
+  
+  -33 concepts every js dev should know
+  https://github.com/leonardomso/33-js-concepts
+  
+  -Turing Curriculum (looks really good)
+  http://frontend.turing.io/prework/
+  
+  -CodeSignal (practice problems)
+  https://app.codesignal.com/arcade
+  
+  -edabit (practice problems)
+  https://edabit.com/challenges/javascript
+  
+ ---------------------------------------------
+ 
+-General Programming 
+  -typing tutor specialized for programming
+  https://typing.io/
+  
   -30 seconds of code
   https://github.com/30-seconds/30-seconds-of-code
   https://30secondsofcode.org/
@@ -50,18 +77,33 @@ Research:
   -Gang of Four Design Patterns
   http://www.blackwasp.co.uk/gofpatterns.aspx
   
+  -Rosetta Code
+  https://rosettacode.org/wiki/Rosetta_Code
+  
+  -CodeWars
+  https://www.codewars.com
+  
+  -Exercism
+  https://exercism.io/
+  solutions:
+  https://github.com/adrianhajdin/exercism-solutions
+  
+  -Advent of Code
+  https://adventofcode.com/
+  
+  -hackerrank
+  https://www.hackerrank.com/
+  
+  -LeetCode
+  https://leetcode.com/
+  
   -github in git
   https://help.github.com/articles/set-up-git/#next-steps-authenticating-with-github-from-git
   
-  -Introduction to readable Javascript
-  https://carlanderson.xyz/intro-to-readable-javascript/
-  https://carlanderson.xyz/readable-javascript-code-structure/
-  
-  -js timing events
-  https://www.w3schools.com/js/js_timing.asp
-  
   -vscode
   https://code.visualstudio.com/docs/getstarted/tips-and-tricks
+  
+  
   
   ---------------------------------------------
   git
